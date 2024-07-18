@@ -22,7 +22,7 @@ Safe-X is a Password Manager application built using Python, Tkinter, and MySQL.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/safe-x-password-manager.git
+   git clone https://github.com/bhaveshdutta12/Safe-X.git
 2. Navigate to the project directory:
    ```bash
    cd Safe-X
