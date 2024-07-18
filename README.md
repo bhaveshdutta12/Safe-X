@@ -17,9 +17,30 @@ Safe-X is a Password Manager application built using Python, Tkinter, and MySQL.
 ## Technologies Used
 - **Python**: Core programming language used for application logic.
 - **Tkinter**: Library used for building the graphical user interface (GUI).
-- **MySQL**: Database management system for storing user data and passwords.
+- **MySQL**: Database management system for storing user data and pa sswords.
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/safe-x-password-manager.git
+2. Navigate to the project directory:
+   ```bash
+   cd Safe-X
+3. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+4. Set up the MySQL database:
+   -Create a new MySQL database.
+   -Run the provided SQL script to set up the necessary tables.
+5. Update the database configuration in the application to match your MySQL setup.
+
+## Usage
+1. Run the application:
+   ```bash
+   python3 Safe-X.py
+2. Log in with your user credentials or create a new account.
+3. Start adding, managing, and retrieving your passwords securely.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
+
