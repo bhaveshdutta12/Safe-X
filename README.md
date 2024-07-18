@@ -1,8 +1,7 @@
 # Safe-X
-Safe-X Password Manager
 # Safe-X Password Manager
 
-![Safe-X Logo](link-to-your-logo.png) 
+![Safe-X Logo](logo.png) 
 
 ## Overview
 Safe-X is a Password Manager application built using Python, Tkinter, and MySQL. The application provides a secure and user-friendly interface for storing and managing passwords for various accounts. By leveraging encryption and secure database practices, Safe-X ensures that your sensitive information is kept safe and easily accessible.
