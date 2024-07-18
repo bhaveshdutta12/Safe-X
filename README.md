@@ -1,4 +1,3 @@
-# Safe-X
 # Safe-X Password Manager
 
 ![Safe-X Logo](logo.png) 
